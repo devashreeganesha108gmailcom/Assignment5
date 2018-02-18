@@ -1,0 +1,38 @@
+body {
+  font-family: american-typewriter; }
+
+.input-task {
+  border-radius: 15px;
+  text-align: center;
+  width: 50%;
+  box-shadow: 5px 5px 5px #272525; }
+
+.add-item-button {
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px #272525; }
+
+.list-item {
+  border-radius: 8px;
+  background-color: #ECEBE6;
+  box-shadow: 5px 5px 5px grey; }
+
+.remove-btn {
+  border-radius: 8px; }
+
+.main-title {
+  text-shadow: 3px 3px 5px #272525; }
+
+.stat {
+  width: 40%;
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px #272525; }
+
+select {
+  width: 200px;
+  height: 25px;
+  text-align-last: center; }
+
+.jumbotron {
+  background-image: url(""); }
+
+/*# sourceMappingURL=styles.css.map */
